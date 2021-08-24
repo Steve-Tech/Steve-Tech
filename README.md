@@ -18,7 +18,7 @@
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Adobe Dreamweaver" width="26px" src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" />](https://www.adobe.com/au/products/dreamweaver.html)
-[<img align="left" alt="GitKraken" width="26px" src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.svg" />](https://www.gitkraken.com/)
+[<img align="left" alt="GitKraken" width="26px" src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-light-sq.svg" />](https://www.gitkraken.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 <br>
 <br>
