@@ -1,0 +1,11 @@
+- GitKraken: https://www.gitkraken.com/store
+    - [gitkraken-logo-light-sq.svg](/logos/gitkraken-logo-light-sq.svg)
+- Jet Brains: https://www.jetbrains.com/company/brand/#logos-and-icons
+    - [IntelliJ_IDEA_icon.svg](/logos/IntelliJ_IDEA_icon.svg)
+    - [PyCharm_icon.svg](/logos/PyCharm_icon.svg)
+- Wikimedia: https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
+    - [Python-logo-notext.svg](/logos/Python-logo-notext.svg)
+- Wikipedia: https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg
+    - [IntelliJ_IDEA_icon.svg](/logos/IntelliJ_IDEA_icon.svg)
+- World Wide Web Consortium: https://www.w3.org/html/logo/#downloads
+    - [HTML5_Logo.svg](/logos/HTML5_Logo.svg)
