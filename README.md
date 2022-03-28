@@ -15,21 +15,22 @@ I am a passionate-about-technology 18 year old that's interested in software eng
 - I have consistantly achieved A and higher in all computing subjects since Year 5
 - I started a [blog with a friend at jas-team.net](https://jas-team.net)
 - I have completed the [freeCodeCamp.org Responsive Web Design Course](https://www.freecodecamp.org/certification/steve-tech/responsive-web-design)
-- I have achieved a High Distinction in the Advanced NCSS Challange Championship 2019
+- I have achieved a [High Distinction in the Advanced NCSS Challange Championship 2019](https://steve-tech.github.io/certificates/certificate-stephen-horvath-challenge-advanced-2019.pdf)
 - I have [over 20 Million points in the Folding@Home Project](https://stats.foldingathome.org/donor/806172)
 
 
 ### Tools and Languages:
-[<img align="left" alt="PyCharm" width="26px" src="/logos/PyCharm_icon.svg" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Intellij IDEA" width="26px" src="/logos/IntelliJ_IDEA_icon.svg" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="GitKraken" width="26px" src="/logos/gitkraken-logo-light-sq.svg" />](https://www.gitkraken.com/)
+[<img align="left" alt="PyCharm" title="PyCharm" width="26px" src="/logos/PyCharm_icon.svg" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Intellij IDEA" title="Intellij IDEA" width="26px" src="/logos/IntelliJ_IDEA_icon.svg" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="GitKraken" title="GitKraken" width="26px" src="/logos/gitkraken-logo-light-sq.svg" />](https://www.gitkraken.com/invite/r8RTStqE)
+[<img align="left" alt="Termius" title="Termius" width="26px" src="/logos/termius-icon.svg" />](https://termius.com/)
 
 <br>
 <br>
 
-[<img align="left" alt="Python" width="26px" src="/logos/Python-logo-notext.svg" />](https://github.com/Steve-Tech?tab=repositories&language=python)
-[<img align="left" alt="Java" width="26px" src="/logos/Java_programming_language_logo.svg" />](https://github.com/Steve-Tech?tab=repositories&language=java)
-[<img align="left" alt="HTML5" width="26px" src="/logos/HTML5_Logo.svg" />](https://github.com/Steve-Tech?tab=repositories&language=html)
+[<img align="left" alt="Python" title="Python" width="26px" src="/logos/Python-logo-notext.svg" />](https://github.com/Steve-Tech?tab=repositories&language=python)
+[<img align="left" alt="Java" title="Java" width="26px" src="/logos/Java_programming_language_logo.svg" />](https://github.com/Steve-Tech?tab=repositories&language=java)
+[<img align="left" alt="HTML5" title="HTML5" width="26px" src="/logos/HTML5_Logo.svg" />](https://github.com/Steve-Tech?tab=repositories&language=html)
 
 <br>
 <br>

@@ -3,6 +3,8 @@
 - Jet Brains: https://www.jetbrains.com/company/brand/#logos-and-icons
     - [IntelliJ_IDEA_icon.svg](/logos/IntelliJ_IDEA_icon.svg)
     - [PyCharm_icon.svg](/logos/PyCharm_icon.svg)
+- Termius: https://termius.com/brand-resources
+    - [termius-icon.svg](/logos/termius-icon.svg)
 - Wikimedia: https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
     - [Python-logo-notext.svg](/logos/Python-logo-notext.svg)
 - Wikipedia: https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg
