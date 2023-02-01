@@ -1,5 +1,5 @@
 ### Hi, I'm Steve
-Hi I'm Steve, I am a passionate-about-technology 18 year old that's interested in software engineering, network engineering or even systems administration. On the programming side I have experience with Python 3, Java 8, and HTML5. I also have a little home lab that I use to explore the world of network engineering... for fun; and I have a hands on understanding of Linux and Unix based operating systems since I run Debian and FreeBSD based servers.
+Hi I'm Steve, I am a passionate-about-technology 19 year old that's interested in software engineering, network engineering or even systems administration. On the programming side I have experience with Python 3, Java 8, and HTML5. I also have a little home lab that I use to explore the world of network engineering... for fun; and I have a hands on understanding of Linux and Unix based operating systems since I run Debian and FreeBSD based servers.
 
 **[View more on my website.](https://stevetech.au)**
 
@@ -16,27 +16,31 @@ Hi I'm Steve, I am a passionate-about-technology 18 year old that's interested i
 ## Hardware Projects (My Home Lab)
 - ### Virtualisation Server
   - Proxmox
-  - AMD Ryzen 5 3400G CPU
-  - Solarflare SFN5122F NIC
+  - 2x Intel Xeon E5-2650 v4 CPUs
+  - Supermicro X10DRI-T4+
+  - 128GB 2400MT/s DDR4 ECC RAM
+  - Intel X520-DA2 NIC
   - Inspur 9211-8i HBA
-  - 64GB DDR4 RAM
+  - NVIDIA Quadro P600 GPU
+  - NVIDIA GeForce GTX 1050 GPU
 - ### My Desktop
   - Windows 11 Pro & Ubuntu 22.04
-  - AMD Ryzen 5 2600 CPU
-  - Asus XG-C100C NIC (Aquantia AQC107)
-  - Nvidia GTX 1660 SUPER GPU
+  - AMD Ryzen 5 3600 CPU
+  - Gigabyte B450 AORUS ELITE
   - 32GB 3200MT/s DDR4 RAM
+  - Solarflare SFN5122F NIC
+  - Nvidia GTX 1660 SUPER GPU
 - ### Dell R610
   - Windows Server 2022 Datacenter
   - 2x Intel Xeon X5690 CPUs
+  - 48GB 1333MT/s DDR3 ECC RAM
   - Solarflare SFN5122F NIC
   - Dell Perc H700 RAID HBA
-  - 48GB DDR3 ECC RAM
 - ### QNAP TS-453Be
   - TrueNAS
   - Intel Celeron J3455 CPU
-  - Mellanox MCX311A NIC
   - 16GB DDR3L RAM
+  - Mellanox MCX311A NIC
 - ### My Network Equipment
   - Dell Networking X1052
   - QNAP QSW-M408-4C (view my article)
