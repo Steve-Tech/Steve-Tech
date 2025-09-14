@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    sodipodi:docname="nvtop-inkscape.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1.3790404"
-     inkscape:cx="130.52555"
-     inkscape:cy="203.76488"
-     inkscape:window-width="1876"
-     inkscape:window-height="1025"
+     inkscape:cx="130.16297"
+     inkscape:cy="204.12745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -67,11 +67,11 @@
          sodipodi:role="line"
          id="tspan3"
          x="71.046875"
-         y="38.000027">Improved i915 support</tspan><tspan
+         y="38.000027">Improved Intel i915 support</tspan><tspan
          sodipodi:role="line"
          x="71.046875"
          y="51.333401"
-         id="tspan4">Implemented Xe support</tspan></text><g
+         id="tspan4">Implemented Intel Xe support</tspan></text><g
        id="g4"
        transform="matrix(1.0345422,0,0,1.0345422,3.8186929,4.627738)"><g
          id="layer3"

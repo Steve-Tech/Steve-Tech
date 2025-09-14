@@ -23,6 +23,8 @@
         #title > text:nth-child(4) {animation-duration: calc(4 * var(--animation-duration));}
         #title > text:nth-child(5) {animation-duration: calc(5 * var(--animation-duration));}
         #title > text:nth-child(6) {animation-duration: calc(6 * var(--animation-duration));}
+        #title > text:nth-child(7) {animation-duration: calc(7 * var(--animation-duration));}
+        #title > text:nth-child(8) {animation-duration: calc(8 * var(--animation-duration));}
 
         #text > text:nth-child(1) {animation-duration: calc(7 * var(--animation-duration));}
         #text > text:nth-child(2) {animation-duration: calc(8 * var(--animation-duration));}
@@ -43,24 +45,26 @@
     </style>
     <g id="title" fill="#080" xml:space="preserve">
         <!-- Assume 'monospace' font is 22 in height -->
-            <text x="32" y="32">███████╗████████╗███████╗██╗   ██╗███████╗ ████████╗███████╗ ██████╗██╗  ██╗</text>
-            <text x="32" y="54">██╔════╝╚══██╔══╝██╔════╝██║   ██║██╔════╝ ╚══██╔══╝██╔════╝██╔════╝██║  ██║</text>
-            <text x="32" y="76">███████╗   ██║   █████╗  ██║   ██║█████╗█████╗██║   █████╗  ██║     ███████║</text>
-            <text x="32" y="98">╚════██║   ██║   ██╔══╝  ╚██╗ ██╔╝██╔══╝╚════╝██║   ██╔══╝  ██║     ██╔══██║</text>
-            <text x="32" y="120">███████║   ██║   ███████╗ ╚████╔╝ ███████╗    ██║   ███████╗╚██████╗██║  ██║</text>
-            <text x="32" y="142">╚══════╝   ╚═╝   ╚══════╝  ╚═══╝  ╚══════╝    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝</text>
+            <text x="16" y="32">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</text>
+            <text x="16" y="54">░░███████╗████████╗███████╗██╗░░░██╗███████╗░████████╗███████╗░██████╗██╗░░██╗░░</text>
+            <text x="16" y="76">░░██╔════╝╚══██╔══╝██╔════╝██║░░░██║██╔════╝░╚══██╔══╝██╔════╝██╔════╝██║░░██║░░</text>
+            <text x="16" y="98">░░███████╗░░░██║░░░█████╗░░██║░░░██║█████╗█████╗██║░░░█████╗░░██║░░░░░███████║░░</text>
+            <text x="16" y="120">░░╚════██║░░░██║░░░██╔══╝░░╚██╗░██╔╝██╔══╝╚════╝██║░░░██╔══╝░░██║░░░░░██╔══██║░░</text>
+            <text x="16" y="142">░░███████║░░░██║░░░███████╗░╚████╔╝░███████╗░░░░██║░░░███████╗╚██████╗██║░░██║░░</text>
+            <text x="16" y="164">░░╚══════╝░░░╚═╝░░░╚══════╝░░╚═══╝░░╚══════╝░░░░╚═╝░░░╚══════╝░╚═════╝╚═╝░░╚═╝░░</text>
+            <text x="16" y="186">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</text>
     </g>
     <g id="text" fill="#080">
-        <text x="16" y="186">Hello, Welcome to my GitHub profile!</text>
-        <text x="16" y="208">I like writing code and running my own servers.</text>
-        <text x="16" y="230">Scroll down for a list of pinned repositories</text>
-        <text x="16" y="252">or view my websites for a little bit more about me.</text>
-        <text x="16" y="296">My Blog: <a href="https://stevetech.me">stevetech.me</a></text>
-        <text x="16" y="318">My Homepage: <a href="https://stevetech.au">stevetech.au</a></text>
-        <text x="16" y="362">I am currently looking for an employer at the moment, so if you're looking</text>
-        <text x="16" y="384">for a motivated computer science student with quite a bit of experience</text>
-        <text x="16" y="406">in the open source world, then feel free to contact me!</text>
-        <text x="16" y="450">github.com/Steve-Tech:~$<tspan>█ <animate attributeName="fill"
+        <text x="16" y="230">Hello, Welcome to my GitHub profile!</text>
+        <text x="16" y="252">I like writing code and running my own servers.</text>
+        <text x="16" y="274">Scroll down for a list of pinned repositories</text>
+        <text x="16" y="296">or view my websites for a little bit more about me.</text>
+        <text x="16" y="340">My Blog: <a href="https://stevetech.me">stevetech.me</a></text>
+        <text x="16" y="362">My Homepage: <a href="https://stevetech.au">stevetech.au</a></text>
+        <text x="16" y="406">I am currently looking for an employer at the moment, so if you're looking</text>
+        <text x="16" y="428">for a motivated computer science student with quite a bit of experience</text>
+        <text x="16" y="450">in the open source world, then feel free to contact me!</text>
+        <text x="16" y="494">github.com/Steve-Tech:~$<tspan>█ <animate attributeName="fill"
                     values="#080;transparent"
                     dur="1s" calcMode="discrete" repeatCount="indefinite" />
             </tspan>
