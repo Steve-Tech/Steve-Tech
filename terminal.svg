@@ -62,7 +62,7 @@
         <text x="16" y="340">My Blog: <a href="https://stevetech.me">stevetech.me</a></text>
         <text x="16" y="362">My Homepage: <a href="https://stevetech.au">stevetech.au</a></text>
         <text x="16" y="406">I am currently looking for an employer at the moment, so if you're looking</text>
-        <text x="16" y="428">for a motivated computer science student with quite a bit of experience</text>
+        <text x="16" y="428">for a motivated computer science graduate with quite a bit of experience</text>
         <text x="16" y="450">in the open source world, then feel free to contact me!</text>
         <text x="16" y="494">github.com/Steve-Tech:~$<tspan>█ <animate attributeName="fill"
                     values="#080;transparent"
